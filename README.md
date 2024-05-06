@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I'm new to github
+- I'm new to coding
+- I'm new to everything here
+- Take care of me!
+
 <!--
 **Khishgee01/Khishgee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
